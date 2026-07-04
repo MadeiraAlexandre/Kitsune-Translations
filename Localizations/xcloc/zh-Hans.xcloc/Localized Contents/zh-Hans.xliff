@@ -823,10 +823,12 @@
       </trans-unit>
       <trans-unit id="E%lld" xml:space="preserve">
         <source>E%lld</source>
+        <target state="translated">第%lld话</target>
         <note/>
       </trans-unit>
       <trans-unit id="E%lld/%lld" xml:space="preserve">
         <source>E%1$lld/%2$lld</source>
+        <target state="translated">第%1$lld/%2$lld话</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ecchi" xml:space="preserve">
